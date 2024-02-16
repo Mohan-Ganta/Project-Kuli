@@ -138,7 +138,32 @@
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script> 
   <script>
-    
-  </script> 
+    // Function to show success message in a popup
+    function showSuccessMessage() {
+      alert("Successfully submitted your details!");
+      // Redirect to home page
+      window.location.href = "./Vendor/vender.html"; // Change this to the actual path of your home page
+    }
+
+    // Wait for the DOM to be ready
+    document.addEventListener("DOMContentLoaded", function () {
+      // Get the form element
+      var form = document.querySelector("form");
+
+      // Add submit event listener to the form
+      form.addEventListener("submit", function (event) {
+        // Prevent the default form submission
+        event.preventDefault();
+
+        // Perform any form validation here if needed
+
+        // Call the function to show success message
+        showSuccessMessage();
+
+        // You can submit the form to Google Forms here if needed
+        // form.submit();
+      });
+    });
+  </script>
   </body>
 </html>

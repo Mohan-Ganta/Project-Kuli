@@ -6,7 +6,7 @@ const posts = [
     "Adhar Number": 24354466777,
     "WorkType": "web development",
     "workPlace": "nsp",
-    "image": "url",
+    "image": "",
     "Proficiency": "fresher"
     },
     {

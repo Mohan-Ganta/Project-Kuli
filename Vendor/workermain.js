@@ -6,7 +6,7 @@ const posts = [
     "Adhar Number": 24354466777,
     "WorkType": "web development",
     "workPlace": "nsp",
-    "image": "",
+    "image": "https://irp-cdn.multiscreensite.com/160fcea9/dms3rep/multi/shutterstock_1192486441.jpg",
     "Proficiency": "fresher"
     },
     {
@@ -16,7 +16,7 @@ const posts = [
     "Adhar Number": "9319 6585 6545",
     "WorkType": "it",
     "workPlace": "nsp",
-    "image": "",
+    "image": "https://www.habbaspilaw.com/wp-content/uploads/2015/11/bigstock-Portrait-Taxi-Driver-Smile-Car-71892247.jpg",
     "Proficiency": "fresher"
     },
     {
@@ -26,7 +26,7 @@ const posts = [
     "Adhar Number": 884522755766,
     "WorkType": "Plamber",
     "workPlace": "Bhimavaram",
-    "image": "",
+    "image": "https://caitcocares.com/wp-content/uploads/2019/02/bigstock-Plumber-160449857-1.jpg",
     "Proficiency": "Expreince"
     },
     {
@@ -36,7 +36,7 @@ const posts = [
     "Adhar Number": 637896381234,
     "WorkType": "carpenter",
     "workPlace": "narsapur",
-    "image": "",
+    "image": "https://brightacademy.online/app/uploads/2019/04/commercial-cleaning-LP-2.jpg",
     "Proficiency": "experienced"
     },
     {
@@ -46,7 +46,7 @@ const posts = [
     "Adhar Number": 637896381234,
     "WorkType": "painter",
     "workPlace": "Bhimavaram",
-    "image": "",
+    "image": "https://achoicepainting.com/wp-content/uploads/2019/01/professional-house-painters.jpeg",
     "Proficiency": "experienced"
     },
     {
@@ -56,7 +56,7 @@ const posts = [
     "Adhar Number": 563478652076,
     "WorkType": "care taker",
     "workPlace": "narasapuram",
-    "image": "",
+    "image": "https://www.habbaspilaw.com/wp-content/uploads/2015/11/bigstock-Portrait-Taxi-Driver-Smile-Car-71892247.jpg",
     "Proficiency": "Fresher"
     },
     {
@@ -66,7 +66,7 @@ const posts = [
     "Adhar Number": 637896381234,
     "WorkType": "mechanic",
     "workPlace": "Bhimavaram",
-    "image": "",
+    "image": "https://cdn-images-1.medium.com/v2/resize:fit:2000/1*JktzC9GrA_l4yz0cCy8a5Q.jpeg",
     "Proficiency": "experienced"
     },
     {
@@ -76,7 +76,7 @@ const posts = [
     "Adhar Number": 251685267415,
     "WorkType": "electrician",
     "workPlace": "perupalem",
-    "image": "",
+    "image": "https://irp-cdn.multiscreensite.com/160fcea9/dms3rep/multi/shutterstock_1192486441.jpg",
     "Proficiency": "experienced"
     },
     {
@@ -86,7 +86,7 @@ const posts = [
     "Adhar Number": 637896381236,
     "WorkType": "mechanic",
     "workPlace": "Bhimavaram",
-    "image": "",
+    "image": "https://cdn-images-1.medium.com/v2/resize:fit:2000/1*JktzC9GrA_l4yz0cCy8a5Q.jpeg",
     "Proficiency": "experienced"
     },
     {
@@ -96,7 +96,7 @@ const posts = [
     "Adhar Number": 985632548562,
     "WorkType": "plumber",
     "workPlace": "roypeta",
-    "image": "",
+    "image": "https://caitcocares.com/wp-content/uploads/2019/02/bigstock-Plumber-160449857-1.jpg",
     "Proficiency": "Fresher"
     },
     {
@@ -106,7 +106,7 @@ const posts = [
     "Adhar Number": 637896381236,
     "WorkType": "driver",
     "workPlace": "Bhimavaram",
-    "image": "",
+    "image": "https://www.habbaspilaw.com/wp-content/uploads/2015/11/bigstock-Portrait-Taxi-Driver-Smile-Car-71892247.jpg",
     "Proficiency": "experienced"
     },
     {
@@ -116,7 +116,7 @@ const posts = [
     "Adhar Number": 453269854202,
     "WorkType": "driver",
     "workPlace": "bhimavaram",
-    "image": "",
+    "image": "https://www.habbaspilaw.com/wp-content/uploads/2015/11/bigstock-Portrait-Taxi-Driver-Smile-Car-71892247.jpg",
     "Proficiency": "experienced"
     },
     {
@@ -126,7 +126,7 @@ const posts = [
     "Adhar Number": 637896381231,
     "WorkType": "Tution teacher",
     "workPlace": "palakollu",
-    "image": "",
+    "image": "https://singaporetuitionteachers.com/wp-content/uploads/2021/06/secondary-school-tuition-featured-image-scaled.jpg",
     "Proficiency": "fresher"
     },
     {
@@ -136,7 +136,7 @@ const posts = [
     "Adhar Number": 637896381235,
     "WorkType": "Tution teacher",
     "workPlace": "palakollu",
-    "image": "",
+    "image": "https://singaporetuitionteachers.com/wp-content/uploads/2021/06/secondary-school-tuition-featured-image-scaled.jpg",
     "Proficiency": "fresher"
     },
     {
@@ -146,7 +146,7 @@ const posts = [
     "Adhar Number": 637896381237,
     "WorkType": "mechanic",
     "workPlace": "narsapur",
-    "image": "",
+    "image": "https://cdn-images-1.medium.com/v2/resize:fit:2000/1*JktzC9GrA_l4yz0cCy8a5Q.jpeg",
     "Proficiency": "experienced"
     },
     {
@@ -156,7 +156,7 @@ const posts = [
     "Adhar Number": 637896381237,
     "WorkType": "mechanic",
     "workPlace": "narsapur",
-    "image": "",
+    "image": "https://cdn-images-1.medium.com/v2/resize:fit:2000/1*JktzC9GrA_l4yz0cCy8a5Q.jpeg",
     "Proficiency": "experienced"
     },
     {
@@ -166,7 +166,7 @@ const posts = [
     "Adhar Number": 563248952036,
     "WorkType": "painter",
     "workPlace": "seetharampuram",
-    "image": "",
+    "image": "https://achoicepainting.com/wp-content/uploads/2019/01/professional-house-painters.jpeg",
     "Proficiency": "experienced"
     }
     

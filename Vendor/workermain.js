@@ -190,7 +190,7 @@ const createPostListingCards = () => {
   posts.forEach((post) => {
     if (
       post.Name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      post.workType.toLowerCase().includes(searchTerm.toLowerCase())
+      post.WorkType.toLowerCase().includes(searchTerm.toLowerCase()) // Corrected to use 'WorkType'
     ) {
       let postCard = document.createElement("div");
       postCard.classList.add("post");
@@ -199,12 +199,13 @@ const createPostListingCards = () => {
       image.src = post.image;
 
       let title = document.createElement("h3");
-      title.innerHTML = post.WorkType; // Corrected property name
+      title.innerHTML = post['WorkType'];
       title.classList.add("post-title");
 
       let name = document.createElement("h3");
-      name.innerHTML = post.Name; // Corrected property name
+      name.innerHTML = post.Name;
       name.classList.add("post-Name");
+
 
       let adharNumber = document.createElement("div");
       adharNumber.innerHTML = `Adhar Number: ${post["Adhar Number"]}`; // Corrected property name
